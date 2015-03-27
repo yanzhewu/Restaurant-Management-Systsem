@@ -1,2 +1,3 @@
 # Restaurant-Management-Systsem
-A reservation system for restaurant with GUI which is written in cpp
+A reservation system for restaurant with GUI which is written in cpp.
+Finished in Sophomore Year.
